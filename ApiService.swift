@@ -3,7 +3,6 @@
 //  PNA
 //
 //  Created by AliPishvaee on 12/20/17.
-//  Copyright © 2017 PNA. All rights reserved.
 //
 
 import UIKit
